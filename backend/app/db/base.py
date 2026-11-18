@@ -1,0 +1,6 @@
+"""SQLAlchemy Base metadata declaration."""
+from sqlalchemy.orm import DeclarativeBase
+
+
+class Base(DeclarativeBase):
+    pass

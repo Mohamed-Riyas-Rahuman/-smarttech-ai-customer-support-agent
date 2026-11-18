@@ -1,0 +1,22 @@
+SmartTech AeroBook Ultra 14 Laptop (SKU: ST-CMP-003)
+Hardware Guide & Display Troubleshooting
+
+Section 1: Hardware Specifications
+- Processor: Intel Core Ultra 7 155H
+- Memory: 32GB LPDDR5X 7467MHz dual-channel
+- Display: 14.0-inch 2.8K 120Hz OLED (100% DCI-P3)
+- Ports: 2x Thunderbolt 4 (USB-C), 1x USB-A 3.2 Gen 2, 1x HDMI 2.1 TMDS, 3.5mm audio jack.
+
+Section 2: External Display & Thunderbolt 4 Connectivity
+Section 2.1: Multi-Monitor Support
+The AeroBook Ultra 14 can drive up to two 4K displays at 60Hz simultaneously via Thunderbolt 4, or one 8K display at 60Hz.
+
+Section 2.2: External Display Flickering or Blackouts
+If an external 4K monitor connected via USB-C or HDMI experiences periodic 2-second blackouts or flickering:
+1. Ensure the Thunderbolt cable is rated for 40Gbps (USB4 / TB4 certified).
+2. Update the Intel Graphics driver to version 31.0.101.5333 or later from the SmartTech Support Portal.
+3. In Windows Display Settings -> Advanced Display, verify that the refresh rate matches the monitor specification (e.g. set to 60.00Hz instead of Variable Refresh Rate).
+4. Disable "Display Power Saving Technology (DPST)" in the Intel Graphics Command Center.
+
+Section 3: Warranty Coverage
+The AeroBook Ultra 14 carries a 12-month manufacturer limited warranty covering logic board, CPU, RAM, display panel, and keyboard. Battery capacity is warranted against falling below 80% of original design capacity within the first 12 months.

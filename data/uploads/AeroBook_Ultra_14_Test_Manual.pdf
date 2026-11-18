@@ -1,0 +1,301 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 3015 >>
+stream
+BT
+/F1 9 Tf
+50 760 Td
+12 TL
+([Page 1]) Tj
+T*
+(SmartTech AeroBook Ultra 14 Version 1.0) Tj
+T*
+(SKU: ST-LAP-014) Tj
+T*
+(DEMONSTRATION & TESTING DOCUMENT: This is a fictional document created exclusively for) Tj
+T*
+(indexing, semantic search,) Tj
+T*
+(and automated response evaluation within the SmartTech Support Agent system.) Tj
+T*
+(Product Name: SmartTech AeroBook Ultra 14 SKU: ST-LAP-014) Tj
+T*
+(Document Version: 1.0 \(Revision B\) Category: Ultra-portable Laptop / Computing) Tj
+T*
+(1. Overview & System Specifications) Tj
+T*
+(The SmartTech AeroBook Ultra 14 is a high-performance ultraportable) Tj
+T*
+() Tj
+T*
+(laptop equipped with a 14-inch 120Hz display,) Tj
+T*
+(dual Thunderbolt 4 ports, dynamic power architecture, and integrated biometric security.) Tj
+T*
+(Designed for mobile) Tj
+T*
+(professionals, it delivers extended battery longevity alongside enterprise-grade) Tj
+T*
+(responsiveness.) Tj
+T*
+(2. First-Time Setup & Power-On Sequence) Tj
+T*
+(1. Unpack the AeroBook Ultra 14 and verify all components: Laptop, 65W USB-C PD Charger, and) Tj
+T*
+(braided USB-C) Tj
+T*
+(cable.) Tj
+T*
+(2. Connect the 65W adapter to either of the two Thunderbolt 4 ports located on the left) Tj
+T*
+() Tj
+T*
+(edge.) Tj
+T*
+(3. Charge the system for at least 30 minutes before initial boot up.) Tj
+T*
+(4. Open the lid \(Auto-Power-On is enabled by default\). If startup does not trigger) Tj
+T*
+(automatically, press and hold the) Tj
+T*
+(Power Button on the top right corner of the keyboard for 2 seconds.) Tj
+T*
+(5. Follow the on-screen Windows Out-of-Box Experience \(OOBE\) prompts to configure language,) Tj
+T*
+(Wi-Fi network) Tj
+T*
+(connection, and SmartTech ID integration.) Tj
+T*
+(3. Display Troubleshooting Protocols) Tj
+T*
+(Issue 3.1: Screen Flickering DSP-FLK-01) Tj
+T*
+(1. Verify) Tj
+T*
+() Tj
+T*
+(whether flickering occurs across all applications or only specific full-screen software.) Tj
+T*
+(2. Perform a graphics driver refresh by pressing Win + Ctrl + Shift + B simultaneously.) Tj
+T*
+(3. Open SmartTech Control Center > Display > Toggle "Panel Self-Refresh \(PSR\)" to OFF.) Tj
+T*
+(4. If flickering persists on battery power, disable "Display Power Saving Technology" inside) Tj
+T*
+(Graphics Settings.) Tj
+T*
+(Issue 3.2: Incorrect Refresh Rate Settings DSP-RR-02) Tj
+T*
+(1. Right-click desktop > select Display Settings > Advanced Display.) Tj
+T*
+(2.) Tj
+T*
+() Tj
+T*
+(Under "Choose a refresh rate", select 120 Hz Dynamic or 60 Hz Fixed.) Tj
+T*
+(3. If 120Hz is missing, ensure external monitors are disconnected or set to DisplayPort 1.4) Tj
+T*
+(output mode.) Tj
+T*
+(Issue 3.3: Display Brightness Issues DSP-BRT-03) Tj
+T*
+(1. Ensure Ambient Light Sensor auto-adjustment is disabled: Settings > System > Display >) Tj
+T*
+(uncheck "Change) Tj
+T*
+(brightness automatically when lighting changes".) Tj
+T*
+(2. Press Fn + F6 to manually increment screen brightness level.) Tj
+T*
+(User Manual & Troubleshooting Guide) Tj
+T*
+() Tj
+T*
+([Page 2]) Tj
+T*
+(SmartTech AeroBook Ultra 14 Manual  ST-LAP-014 Page 1 of 2) Tj
+T*
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 3055 >>
+stream
+BT
+/F1 9 Tf
+50 760 Td
+12 TL
+(4. Battery & Power Troubleshooting) Tj
+T*
+(Issue 4.1: Battery Draining Rapidly BAT-DRN-01) Tj
+T*
+(1. Open Task Manager \(Ctrl + Shift + Esc\) and check CPU usage under background tasks.) Tj
+T*
+(2. In SmartTech Power Hub, toggle Battery Saver Mode to "Balanced" or "Eco Performance".) Tj
+T*
+(3. Calibrate battery state: Charge to 100%, discharge completely until system powers down,) Tj
+T*
+(then recharge to 100%) Tj
+T*
+(uninterrupted.) Tj
+T*
+(Issue 4.2: Laptop Not Charging / EC Reset) Tj
+T*
+() Tj
+T*
+(BAT-CHG-02) Tj
+T*
+(If the charging LED does not illuminate when plugged in, perform an Embedded Controller \(EC\)) Tj
+T*
+(hard reset:) Tj
+T*
+(1. Disconnect charger and shut down laptop completely.) Tj
+T*
+(2. Press and hold Power Button for exactly 15 seconds, then release.) Tj
+T*
+(3. Reconnect the original 65W USB-C adapter and plug directly into a wall outlet \(avoid) Tj
+T*
+(unpowered USB hubs\).) Tj
+T*
+(Safety Precaution: Use only SmartTech-approved 65W or higher Power Delivery adapters. Stop) Tj
+T*
+(charging immediately) Tj
+T*
+(if power brick exhibits extreme heat) Tj
+T*
+() Tj
+T*
+(\(>60C\) or burning smell.) Tj
+T*
+(5. Wi-Fi & Connectivity Troubleshooting) Tj
+T*
+(Issue 5.1: Wi-Fi Disconnections & Failure to Connect WFI-CON-01) Tj
+T*
+(1. Toggle Flight Mode ON for 5 seconds, then toggle OFF \(Fn + F12\).) Tj
+T*
+(2. Open Device Manager > Network Adapters > Right-click "SmartTech Wi-Fi 6E AX211" >) Tj
+T*
+(Disable, wait 10s, Enable.) Tj
+T*
+(3. Execute Network Reset: Settings > Network & Internet > Advanced Network Settings >) Tj
+T*
+(Network Reset. Re-enter) Tj
+T*
+(password after restart.) Tj
+T*
+(6. Keyboard & Touchpad Troubleshooting) Tj
+T*
+(If touchpad fails) Tj
+T*
+() Tj
+T*
+(to respond, press Fn + F9 to toggle physical Touchpad Lock. If specific keys fail, ensure) Tj
+T*
+(primary) Tj
+T*
+(language layout in Windows matches physical keyboard layout.) Tj
+T*
+(7. Warranty Information & Support Policy) Tj
+T*
+(Important Policy Notice: All warranty service claims must be verified against SmartTech's) Tj
+T*
+(official Master Warranty Policy and) Tj
+T*
+(the customer's validated proof of purchase record. Customer support agents must never) Tj
+T*
+(promise free repairs, hardware) Tj
+T*
+(replacement, or out-of-warranty coverage prior to official) Tj
+T*
+() Tj
+T*
+(serial number validation.) Tj
+T*
+(8. Frequently Asked Questions \(FAQ & Verification Tests\)) Tj
+T*
+(Q1: How do I perform an Embedded Controller \(EC\) reset on the AeroBook Ultra 14?) Tj
+T*
+(A1: Unplug charger, shut down the device, hold the Power Button down for 15 seconds, then) Tj
+T*
+(re-attach charger.) Tj
+T*
+(Reference code: BAT-CHG-02.) Tj
+T*
+(Q2: What should I do if the screen flickers when PSR is enabled?) Tj
+T*
+(A2: Open SmartTech Control Center > Display, and switch "Panel Self-Refresh \(PSR\)" to OFF) Tj
+T*
+(\(DSP-FLK-01\).) Tj
+T*
+(Q3: Can I charge the AeroBook) Tj
+T*
+() Tj
+T*
+(Ultra 14 with a standard phone charger?) Tj
+T*
+(A3: No, it requires a minimum 65W USB-C Power Delivery \(PD\) compliant charger connected to a) Tj
+T*
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 9 0 R >>
+endobj
+9 0 obj
+<< /Length 296 >>
+stream
+BT
+/F1 9 Tf
+50 760 Td
+12 TL
+(Thunderbolt 4 port.) Tj
+T*
+() Tj
+T*
+([Page 3]) Tj
+T*
+(SmartTech AeroBook Ultra 14 Manual  ST-LAP-014 Page 2 of 2) Tj
+T*
+() Tj
+T*
+(Support policy: customer support agents must never promise free repairs or replacement) Tj
+T*
+(before serial number validation.) Tj
+T*
+ET
+endstream
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000203 00000 n 
+0000000329 00000 n 
+0000003396 00000 n 
+0000003522 00000 n 
+0000006629 00000 n 
+0000006755 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+7102
+%%EOF

@@ -1,0 +1,248 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 2873 >>
+stream
+BT
+/F1 9 Tf
+50 760 Td
+12 TL
+([Page 1]) Tj
+T*
+(SmartTech VisionBeam 4K Version 1.0) Tj
+T*
+(SKU: ST-VIS-002) Tj
+T*
+(DEMONSTRATION & TESTING DOCUMENT: This is a fictional test document created specifically for) Tj
+T*
+(indexing, vector) Tj
+T*
+(semantic search, and automated support response evaluation in the SmartTech Support Agent) Tj
+T*
+(system.) Tj
+T*
+(Product Name: VisionBeam 4K Portable Projector SKU: ST-VIS-002) Tj
+T*
+(Document Version: 1.0 Category: Optical Display / Projection) Tj
+T*
+(1. Overview & Setup) Tj
+T*
+(The SmartTech VisionBeam 4K Portable Projector features ultra-bright 2200 ANSI lumen) Tj
+T*
+() Tj
+T*
+(projection, 4-Corner Digital) Tj
+T*
+(Keystone adjustment, auto-focus optical sensors, and eARC-enabled HDMI 2.1 input for) Tj
+T*
+(high-definition streaming and) Tj
+T*
+(gaming.) Tj
+T*
+(2. Initial Connection Setup) Tj
+T*
+(1. Place projector on a flat surface between 1.2m and 4.5m from your target wall or projector) Tj
+T*
+(screen.) Tj
+T*
+(2. Connect the 19V DC power supply to the main power inlet.) Tj
+T*
+(3. Connect source devices using high-speed HDMI 2.1 cable to Port 1 \(eARC compatible\).) Tj
+T*
+(4. Press Power button on top panel or remote control. Allow 15 seconds) Tj
+T*
+() Tj
+T*
+(for optical LED engine warm-up.) Tj
+T*
+(3. HDMI Connection Troubleshooting) Tj
+T*
+(Issue 3.1: No HDMI Signal or HDCP Error PRJ-HDMI-01) Tj
+T*
+(1. Check HDMI source output resolution; ensure output does not exceed 3840x2160 @ 60Hz.) Tj
+T*
+(2. Perform HDCP handshake reset: Disconnect HDMI cable, turn source device OFF, restart) Tj
+T*
+(projector, reconnect) Tj
+T*
+(cable, then turn source device back ON.) Tj
+T*
+(3. In Settings > Inputs > set HDMI EDID Mode from "Auto" to "HDMI 2.0" or "HDMI 1.4".) Tj
+T*
+(4. Image Calibration & Distortion Fixes) Tj
+T*
+(Issue 4.1: Blurry) Tj
+T*
+() Tj
+T*
+(Image / Auto-Focus Failure PRJ-IMG-01) Tj
+T*
+(1. Clean front optical lens with a dry microfiber optical cloth.) Tj
+T*
+(2. Press Focus + / Focus - on remote to manually override Time-of-Flight \(ToF\) sensor.) Tj
+T*
+(3. Disable Auto-Focus in Menu > Display > ToF Sensor Calibration.) Tj
+T*
+(Issue 4.2: Trapezoidal Distortion / Keystone PRJ-IMG-03) Tj
+T*
+(1. Go to Settings > Projection > 4-Corner Digital Keystone.) Tj
+T*
+(2. Use direction arrows on remote control to manually align all four corner boundaries until) Tj
+T*
+(screen rectangular ratio) Tj
+T*
+(is) Tj
+T*
+() Tj
+T*
+(restored.) Tj
+T*
+(Portable Projector  User Manual & Guide) Tj
+T*
+() Tj
+T*
+([Page 2]) Tj
+T*
+(SmartTech VisionBeam 4K Manual  ST-VIS-002 Page 1 of 2) Tj
+T*
+(5. Audio Troubleshooting) Tj
+T*
+(Issue 5.1: No Sound / Unresponsive Audio AUD-NOS-01) Tj
+T*
+(1. Verify source audio setting is set to PCM or Dolby Digital \(RAW Bitstream output without) Tj
+T*
+(eARC target may cause) Tj
+T*
+(silence\).) Tj
+T*
+(2. Ensure Bluetooth Audio Output option is toggled to "Internal Speakers" under Audio) Tj
+T*
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 2285 >>
+stream
+BT
+/F1 9 Tf
+50 760 Td
+12 TL
+(Settings.) Tj
+T*
+(Issue 5.2: Audio-Video Out of Sync / Lip Sync Delay AUD-SYN-02) Tj
+T*
+(1. Go to Audio Settings > Audio Delay Sync.) Tj
+T*
+(2. Adjust latency slider in) Tj
+T*
+() Tj
+T*
+(steps of +10ms or -10ms \(default setting: 0ms\).) Tj
+T*
+(3. If using Bluetooth speakers, switch to 3.5mm AUX or HDMI eARC connection to bypass) Tj
+T*
+(wireless audio latency.) Tj
+T*
+(6. Overheating, Ventilation & Thermal Cut-off) Tj
+T*
+(Thermal Safety Warning: Maintain at least 20cm \(8 inches\) clearance around intake and) Tj
+T*
+(exhaust vents on both sides.) Tj
+T*
+(The VisionBeam 4K contains an automated 75C safety cut-off switch to prevent optical) Tj
+T*
+(damage.) Tj
+T*
+(If the projector shuts down unexpectedly and the Status LED flashes RED:) Tj
+T*
+(1. Unplug power) Tj
+T*
+() Tj
+T*
+(immediately and allow unit to cool down for 20 minutes.) Tj
+T*
+(2. Inspect dust filters on side intake vents for blockage.) Tj
+T*
+(7. Cleaning & Dust Filter Maintenance) Tj
+T*
+(Clean the removable intake mesh filter every 100 operating hours. Slide out the side filter) Tj
+T*
+(tray, vacuum gently on low) Tj
+T*
+(suction, or rinse with clean water \(ensure 100% dry before reinserting\).) Tj
+T*
+(8. Warranty Policy Notice) Tj
+T*
+(Warranty service demands strict validation against SmartTech purchase records and official) Tj
+T*
+(company warranty) Tj
+T*
+(guidelines. Support) Tj
+T*
+() Tj
+T*
+(personnel must check original invoice details before promising replacement units or optical) Tj
+T*
+(engine servicing.) Tj
+T*
+(9. Frequently Asked Questions \(FAQ & Test Bench\)) Tj
+T*
+(Q1: Why does the projector turn off automatically after several minutes of use?) Tj
+T*
+(A1: This indicates thermal cut-off \(>75C\) triggered by blocked vents or dust accumulation) Tj
+T*
+(in the side intake filter.) Tj
+T*
+(Q2: How do I fix audio lag when connected to external speakers?) Tj
+T*
+(A2: Adjust latency slider in Audio Settings > Audio Delay Sync in +/-10ms) Tj
+T*
+() Tj
+T*
+(increments \(AUD-SYN-02\) or switch to wired) Tj
+T*
+(HDMI eARC.) Tj
+T*
+(Q3: How often should I clean the projector air filter?) Tj
+T*
+(A3: The removable intake mesh filter should be cleaned every 100 operating hours.) Tj
+T*
+() Tj
+T*
+([Page 3]) Tj
+T*
+(SmartTech VisionBeam 4K Manual  ST-VIS-002 Page 2 of 2) Tj
+T*
+ET
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000127 00000 n 
+0000000197 00000 n 
+0000000323 00000 n 
+0000003248 00000 n 
+0000003374 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+5711
+%%EOF

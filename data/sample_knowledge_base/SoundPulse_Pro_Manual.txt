@@ -1,0 +1,34 @@
+SmartTech SoundPulse Pro ANC Headphones (SKU: ST-AUD-001)
+Official User Guide & Technical Troubleshooting Manual
+
+Section 1: Overview and Specifications
+The SmartTech SoundPulse Pro features 45mm custom bio-cellulose dynamic drivers, dual hybrid Active Noise Cancellation (ANC), 40 hours of continuous playback, and Bluetooth 5.4 with LDAC and aptX Adaptive codecs.
+
+Section 2: Pairing and Connectivity
+To pair your SoundPulse Pro for the first time:
+1. Ensure the headphones are powered off.
+2. Press and hold the Power button for 5 seconds until the status LED alternates between flashing blue and white.
+3. On your host device (smartphone, computer), open Bluetooth settings and select "SoundPulse Pro".
+4. The LED will illuminate solid blue for 3 seconds upon successful connection.
+
+Section 3: Active Noise Cancellation (ANC) Modes
+Cycle through ANC modes by pressing the ANC button on the left ear cup:
+- Mode 1: Hybrid Active Noise Cancellation (maximum 42dB attenuation).
+- Mode 2: Transparency / Ambient Aware Mode.
+- Mode 3: Normal / Passive Isolation Mode.
+
+Section 4: Troubleshooting and Firmware Updates
+Section 4.1: Charging and Battery Health
+If the battery does not charge, ensure you are using the included 5V/2A USB-C charging cable. Rapid orange flashing indicates battery temperature exceeds 45°C; allow headphones to cool to room temperature before resuming charging.
+
+Section 4.2: Firmware Update Stalls and Rapid Red LED
+If a firmware update via the SmartTech Companion App stalls (typically between 40% and 50%) and the LED begins flashing red rapidly, this indicates a Bluetooth packet timeout during flash staging.
+Resolution Procedure (Hard Factory Reset):
+1. Disconnect the headphones from any charging cable or audio wire.
+2. Press and hold down BOTH the Power button and the ANC button simultaneously for 12 seconds.
+3. Release both buttons when the LED flashes purple twice.
+4. On your smartphone/tablet Bluetooth settings, delete / "Forget This Device".
+5. Power on the headphones, re-pair via Bluetooth, and retry the update in the SmartTech Companion App.
+
+Section 5: Manufacturer Warranty Coverage
+The SoundPulse Pro is protected by a 24-month comprehensive manufacturer hardware warranty from the original date of purchase or registration. It covers driver failures, battery degradation below 70% capacity, Bluetooth chip faults, and headband hinge defects. Accidental water immersion and physical breakage are excluded from standard coverage.
